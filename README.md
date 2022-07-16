@@ -8,6 +8,6 @@
   <a/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Barbosaadev&style=flat-square&color=blue" alt=""/>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barbosaadev&show_icons=true&theme=monokai)
