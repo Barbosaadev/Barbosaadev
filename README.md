@@ -9,7 +9,8 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=Barbosaadev&style=flat-square&color=blue" alt=""/>
-  
+
+<div align=left>
 <h1>
   Welcome
 <img src="https://media.giphy.com/media/fjgqYjVkzfQ9a/giphy.gif" width="70px">
@@ -30,5 +31,4 @@
   
 - 📫 How to reach me: ![Linkedin Badge](https://img.shields.io/badge/-Guilherme-blue?style=flat&logo=Linkedin&logoColor=white)<a href="https://www.linkedin.com/in/guilherme-barbosa-98149521a/"></p>
 
-
-  </div>
+</div>
