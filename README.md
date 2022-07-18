@@ -21,14 +21,11 @@
 </div>
 
 ---
-  <div align=left>
   
-<p>👨‍💻 About me:
+<p>👨‍💻 About me: </p>
   
--  I'm a aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from 🇧🇷
+<p> -  I'm a aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from 🇧🇷 </p>
   
-- ⚡In my free time i read tech articles and programming languages docs
+<p> - ⚡In my free time i read tech articles and programming languages docs </p>
   
-- 📫 How to reach me: ![Linkedin Badge](https://img.shields.io/badge/-Guilherme-blue?style=flat&logo=Linkedin&logoColor=white)<a href="https://www.linkedin.com/in/guilherme-barbosa-98149521a/"></p>
-
-</div>
+<p> - 📫 How to reach me: ![Linkedin Badge](https://img.shields.io/badge/-Guilherme-blue?style=flat&logo=Linkedin&logoColor=white)<a href="https://www.linkedin.com/in/guilherme-barbosa-98149521a/"></p>
