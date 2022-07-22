@@ -48,7 +48,7 @@
  
 
  <a href="https://github.com/Barbosaadev">
- <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Barbosaadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Barbosaadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barbosaadev&hide=ruby,shell&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
