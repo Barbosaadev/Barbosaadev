@@ -37,7 +37,7 @@
 <h3 align="left">
     👨‍💻 About Me:
     </h2>
-<p align="left"> - I'm a aspiring Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from 🇧🇷 </p>
+  <p align="left"> - I'm a student of Full-Stack Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from 🇧🇷 </p>
   <p align="left"> - 🔭 I study at Digital College Fortaleza </p>
   <p align="left"> - 🌱 Always trying to learn something new </p>
   <p align="left"> - ⚡In my free time i like to study new programming languages </p>
