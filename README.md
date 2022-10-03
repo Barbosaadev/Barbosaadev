@@ -50,7 +50,7 @@
  <a href="https://github.com/Barbosaadev">
  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Barbosaadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barbosaadev&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barbosaadev&hide=shell,ruby&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Barbosaadev&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
      
