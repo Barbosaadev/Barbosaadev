@@ -1,7 +1,7 @@
-<div align="center">
-     <img src="https://i.pinimg.com/originals/a0/d5/81/a0d581666d26dd9c66bf8ed395cba948.gif" width="300">
-</div>
-
+<h2 align="center">
+  HELLO WORLD
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h2>
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/guilherme-barbosa-98149521a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,11 +10,6 @@
 <div>
   <img src="https://komarev.com/ghpvc/?username=Barbosaadev&style=flat-square&color=blue" alt="View Count"/>
   </div>
-
-<h2 align="center">
-  HELLO WORLD
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h2>
 
 <div align=center>
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" width="700">
