@@ -122,9 +122,10 @@ I'm especially interested in **products, SaaS, automation and AI-powered softwar
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Barbosaadev&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Barbosaadev&theme=github_dark" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbosaadev&layout=compact&theme=transparent&hide_border=true&hide=shell,ruby"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Barbosaadev&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Barbosaadev&theme=github_dark" />
 
 </div>
 
