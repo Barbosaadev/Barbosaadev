@@ -4,7 +4,7 @@
 
 I'm a Brazilian software developer focused on building **modern web and mobile applications**, with experience ranging from pixel-accurate interfaces to complete products with authentication, databases, APIs, dashboards and automation.
 
-I enjoy turning ideas into working products — from the first MVP to production-ready applications.
+I enjoy turning ideas into working products. From the first MVP to production-ready applications.
 
 ---
 
