@@ -1,51 +1,146 @@
-<h2 align="center">
-  HELLO WORLD
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h2>
-<div align="center" id="badges">
-  <a href="https://www.linkedin.com/in/guilherme-barbosa-98149521a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-<div>
-  <img src="https://komarev.com/ghpvc/?username=Barbosaadev&style=flat-square&color=blue" alt="View Count"/>
-  </div>
+# 👋 Hey, I'm Guilherme Barbosa
 
-<div align=center>
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" width="700">
- </div>
- 
- <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50"height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50"height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="Sass" alt="Sass" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Vscode" **alt="Vscode" width="50" height="50"/>
-</div>
-  
+### Full Stack Developer • React • Next.js • TypeScript
+
+I'm a Brazilian software developer focused on building **modern web and mobile applications**, with experience ranging from pixel-accurate interfaces to complete products with authentication, databases, APIs, dashboards and automation.
+
+I enjoy turning ideas into working products — from the first MVP to production-ready applications.
+
 ---
-  
-<h3 align="left">
-    👨‍💻 About Me:
-    </h2>
-  <p align="left"> - 👨‍💻 I'm currently working at Itarget Tecnologia as a Front-End Developer and React-Native Mobile Developer <img src="https://accbm.com.br/wp-content/themes/ACCBM/assets/image/logo-itarget.png" width="30" align="center"></p>
-  <p align="left"> - 🌱 Making friends everywhere 😄 </p>
-  <p align="left"> - 😺 I like cats...like...A LOT <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" align="center"></p>
-  
-  ---
-  
- ### 🔥 My Stats 
- 
 
- <a href="https://github.com/Barbosaadev">
-   
-[![Barbosaadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barbosaadev&show_icons=true&theme=gruvbox)](https://github.com/Barbosaadev)
+## 🚀 What I Work With
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barbosaadev&hide=shell,ruby&theme=vision-friendly-dark)]
-   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Barbosaadev&theme=monokai)
+### Frontend
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Barbosaadev&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
+* **React**
+* **Next.js**
+* **TypeScript**
+* JavaScript
+* HTML5 / CSS3
+* Tailwind CSS
+* Shadcn/ui
+* Responsive & Pixel-Accurate UI
+
+### Mobile
+
+* **React Native**
+* **Expo**
+
+### Backend
+
+* **Node.js**
+* **Fastify**
+* REST APIs
+* Authentication & Authorization
+* **Prisma ORM**
+
+### Database & Infrastructure
+
+* **PostgreSQL**
+* **Supabase**
+* Vercel
+* Cloudflare
+* DigitalOcean
+
+### Tools & Workflow
+
+* Git & GitHub
+* VS Code
+* Figma
+* API integrations
+* AI integrations
+* Automation systems
+
+---
+
+## 💻 What I've Built
+
+Throughout my experience, I've worked on projects involving:
+
+* 📊 **ERP and management systems**
+* 📱 **Web & mobile applications**
+* 🔐 Authentication and role-based access
+* 📈 Dashboards and data visualization
+* 🤖 AI-powered features and automation
+* 🔗 Third-party API integrations
+* 💬 WhatsApp / Instagram automation
+* 🗄️ Database-driven applications
+* 🚀 MVPs and SaaS products
+
+One of the projects I've worked on is an **ERP system for Atos de Cristo**, built with:
+
+`Next.js` `React` `TypeScript` `Prisma` `PostgreSQL`
+
+---
+
+## 🧠 Engineering Mindset
+
+I care about more than just writing code.
+
+My approach is focused on:
+
+**Good UX → Clean architecture → Business value → Fast iteration**
+
+I like understanding the problem behind a feature, choosing the simplest architecture that solves it, and shipping something useful instead of overengineering.
+
+I'm especially interested in **products, SaaS, automation and AI-powered software**.
+
+---
+
+## 📌 Currently
+
+👨‍💻 Working as a **Front-End / React Native Developer**
+
+🌱 Expanding my expertise across the **full stack**
+
+🤖 Building and experimenting with **AI, automation and SaaS products**
+
+🚀 Always looking for challenging problems worth solving.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" width="45" alt="Fastify"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45" alt="Prisma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="45" alt="Supabase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React Native"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Barbosaadev&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barbosaadev&layout=compact&theme=transparent&hide_border=true&hide=shell,ruby"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/guilherme-barbosa-98149521a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Barbosaadev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+> **Build useful things. Learn fast. Ship often. 🚀**
